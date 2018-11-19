@@ -75,6 +75,7 @@ namespace WpfApp1
             
         }
 
+        //code to check for a winning board
         private void CheckForWin()
         {
             if (board[0] !=
