@@ -71,6 +71,13 @@ namespace WpfApp1
             {
                 Button02.Content = "O";
             }
+
+            
+        }
+
+        private void CheckForWin()
+        {
+            if (board[0] !=
         }
     }
 }
